@@ -60,6 +60,18 @@ html {
     background-color: #f17377;
   }
 
+  .equal-sign {
+    background-color: #2e86c0;
+    border-color: #337cac;
+    color: #fff;
+    height: 100%;
+    grid-area: 2 / 4 / 6 / 5;
+  }
+
+  .equal-sign:hover {
+    background-color: #4e9ed4;
+  }
+
 
 
 
