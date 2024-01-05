@@ -46,4 +46,8 @@ html {
   button:hover {
     background-color: #eaeaea;
   }
+  .operator {
+    color: #337cac;
+  }
+
 
