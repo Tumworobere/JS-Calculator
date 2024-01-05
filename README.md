@@ -37,7 +37,7 @@ The calculator's styling is defined in the provided CSS file (styles.css). It in
 
 ## Author
 
-👤 **Annah Tumworobere **
+👤 **Annah Tumworobere**
 
 - GitHub: [@tumworobere](https://github.com/tumworobere)
 - Twitter: [@Tannah2090](https://twitter.com/Tannah2090)
